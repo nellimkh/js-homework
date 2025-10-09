@@ -6,4 +6,4 @@ return "Even";
         }
 }
 
-console.log(evenOrOdd(7));
+console.log(evenOrOdd(7)); 

@@ -7,5 +7,5 @@ function reverse_str(str){
     return reverse;
 }
 
-    console.log(reverse_str(str));
+    console.log(reverse_str(str)); 
     
